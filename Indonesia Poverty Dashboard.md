@@ -6,6 +6,8 @@ This project presents an interactive Power BI dashboard that analyzes socioecono
 
 The dashboard enables users to identify regional patterns, compare socioeconomic indicators, and explore potential relationships between education and unemployment.
 
+Google spreadsheet link: https://docs.google.com/spreadsheets/d/1SJSvj4fXf6uRSjqxvn2IxScHx89O-BLcCyrEUGyQVgY/edit?usp=sharing
+
 ---
 
 ## Tools
@@ -74,16 +76,4 @@ This chart helps identify patterns and potential associations between education 
 
 ---
 
-## Repository Structure
-
-```
-indonesia-poverty-dashboard/
-│
-├── README.md
-├── dashboard.pbix
-├── dashboard.pdf
-├── data/
-│   └── socioeconomic_data.xlsx
-└── images/
-    └── dashboard-preview.png
 ```
