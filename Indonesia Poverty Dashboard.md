@@ -75,5 +75,3 @@ This chart helps identify patterns and potential associations between education 
 - Support data-driven understanding of regional socioeconomic conditions.
 
 ---
-
-```
