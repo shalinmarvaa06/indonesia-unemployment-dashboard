@@ -16,7 +16,7 @@ The dashboard enables users to identify regional patterns, compare socioeconomic
 
 ## Dashboard Preview
 
-![Dashboard](images/kemiskinan-dashboard.png)
+![Dashboard](kemiskinan-dashboard.png)
 
 ---
 
